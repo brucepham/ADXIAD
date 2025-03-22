@@ -149,24 +149,28 @@ You need to analyze the system logs for Contoso. The logs have been saved to an 
 3. Select Source Type: **Blob container**. Leave "Ingestion type" to the default **One-Time** and "Select source" to the default value **Add URL**.
 
 4. In **Link to source** paste the following URL:
+
+   **-Instructor will share URL with SAS key**
    
     ```url
     https://adxsamplefiles.blob.core.windows.net/publiccsvsamples/logsbenchmark-onegb/2014
     ```
 
 6. The **Schema defining file** should automatically select file: `03/08/00/data.csv.gz`. One file will be used to determine the schema of the data. For this lab, it does not matter which file you choose because all files have the same structure. Click **Next: Schema** to proceed.
+   
+   Expand **File Filters**, enter **csv.gz** for File extension
 
     ![Ingest Data from storage](/assets/images/ingest_from_storage.png "Ingest Data from storage")
 
-7. Under "Data format" select **Keep current table schema** and deselect **Ignore the first record**. Click **Next: Start ingestion** to proceed.
+8. Under "Data format" select **Keep current table schema** and deselect **Ignore the first record**. Click **Next: Start ingestion** to proceed.
   
     ![Use schema from ingested data](/assets/images/ingest_from_storage_schema.png "Use schema from ingested data")
   
-8. The ingestion should be completed within a few seconds, and click **Close** to finish.
+9. The ingestion should be completed within a few seconds, and click **Close** to finish.
 
     ![Ingestion in progress](/assets/images/ingestion_completed.png "Ingestion in progress")
   
-9. Go to the **Query** page. Run the following KQL query to verify that data was ingested to the table.
+10. Go to the **Query** page. Run the following KQL query to verify that data was ingested to the table.
 
     ```kql
       logsRaw
