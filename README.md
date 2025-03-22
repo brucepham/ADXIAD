@@ -12,19 +12,7 @@ Each challenge has a set of tasks that need to be completed in order to move on 
 
 - [Go to ADX-In-A-Day HomePage](https://github.com/Azure/ADX-in-a-Day)
 
-## **Earn a digital badge!**
 
-In order to receive the "ADX-In-A-Day" digital badge, you will need to complete the tasks marked with ✅ in Lab 1 & Lab 2. Submit your answers for Lab 1 and Lab 2 quizzes in order to receive the "ADX in a Day" digital badge. You may edit your answers after or try again.
-
-| :information_source: **Note**    |
-|:---------------------------|
-| **For Lab 1, please submit the results for the tasks marked with ✅ in the following link**: [Quiz ADX in A Day Lab 1](https://forms.office.com/r/qZ0yghDwyb) |
-
-| :information_source: **Note**    |
-|:---------------------------|
-| **Please allow us 5 working days to issue the badge**|
-
-![ADX in a day Badge](/assets/images/badge.png "ADX in a day Badge")
 
 ---
 
