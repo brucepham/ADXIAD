@@ -10,10 +10,6 @@ This Lab is organized into the following 4 Challenges:
 
 Each challenge has a set of tasks that need to be completed in order to move on to the next challenge. It is advisable to complete the challenges and tasks in the prescribed order.
 
-- [Go to ADX-In-A-Day HomePage](https://github.com/Azure/ADX-in-a-Day)
-
-
-
 ---
 
 ## **Challenge 1: Create an ADX cluster**
