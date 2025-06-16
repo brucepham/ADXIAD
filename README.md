@@ -147,6 +147,8 @@ You need to analyze the system logs for Contoso. The logs have been saved to an 
 4. In **Link to source** paste the following URL:
 
    **-Instructor will share URL with SAS key**
+
+   https://blobwestusbp.blob.core.windows.net/publiccsvsamples?sv=2024-11-04&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2025-06-23T08:45:45Z&st=2025-06-12T00:45:45Z&spr=https&sig=xJqkdMWBQbfggQp8F%2BY7D%2BfXEYUi6mUMyFJMi8NxneA%3D
    
     ```url
     https://adxsamplefiles.blob.core.windows.net/publiccsvsamples/logsbenchmark-onegb/2014
